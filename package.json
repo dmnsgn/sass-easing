@@ -1,0 +1,20 @@
+{
+  "name": "sass-easing",
+  "version": "1.0.0",
+  "description": "Easing variables for sass",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmnsgn/sass-easing"
+  },
+  "keywords": [
+    "sass",
+    "easing",
+    "scss"
+  ],
+  "author": "Damien Seguin <dmnsgn@gmail.com> (http://dmnsgn.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmnsgn/sass-easing/issues"
+  },
+  "homepage": "https://github.com/dmnsgn/sass-easing"
+}
