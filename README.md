@@ -9,7 +9,7 @@ $ npm install sass-easing --save
 
 ## Usage
 
-```css
+```SCSS
 @import "../node_modules/sass-easing/_easings.scss";
 
 .element {
