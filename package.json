@@ -1,7 +1,7 @@
 {
   "name": "sass-easing",
   "main": "_easings.scss",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easing variables for sass",
   "repository": {
     "type": "git",
